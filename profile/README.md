@@ -43,6 +43,13 @@ Design is core to our process, not an add-on. Designers and developers work side
 - Vibe Coding Sprint
 - Sales AI Enablement
 
+
+## Beyond the code
+
+We're the Technology Partner of Roman Biliński, FIA Formula 2 Racing Driver. 
+
+[Meet the partnership →] https://www.boldare.com/roman-bilinski/
+
 ---
 
 ## By the Numbers
